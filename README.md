@@ -24,7 +24,7 @@ regulatory environment. An open mind is key to having a good working relationshi
 
 -   IOT: OpenWrt, Arm Processors, Secure Boot, Image Provenance, Docker, Linux Containers, PKI
 
--   Technologies: Ansible, Palo Alto, Gitlab, OpenScap, Azure Sphere, Active Directory 2fa, PrimeKey PKI appliance, TrustZone, TPM 2.0, Intel TXT, and Selinux, Secure Boot, Trusted Boot, Artifactory.
+-   Technologies: Ansible, Palo Alto, Gitlab, OpenScap, Azure Sphere, Active Directory 2fa, PrimeKey PKI appliance, TrustZone, TPM 2.0, Intel TXT, Selinux, Secure Boot, Trusted Boot, Artifactory.
 
 ## <span style="font-variant:small-caps;">Professional Experience</span>
 
