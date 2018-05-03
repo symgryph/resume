@@ -10,7 +10,7 @@ regulatory environment. An open mind is key to having a good working relationshi
 ## <span style="font-variant:small-caps;">Areas of Expertise</span>
 
 *Focus Areas* | *Skill Areas*                     
------------------------------------+-----------------------------------+
+---|---+-----------------------------------+
  -   Analyzing risk tolerance cost vs cost in iot solutions   | -   Secure IOT Design/Development |
 -   Imparting innovative SecDevOps culture|-  Sensible PKI / Usable PKI Solutions
 -   Solving tough security problems unconventionally|- Creatively balancing security vs utility|
