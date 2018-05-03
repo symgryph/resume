@@ -1,6 +1,5 @@
 # Thomas Munn
 Address: Cary, NC 27513 <br>
-Phone: 919-648-2447<br>
 Email: [symgryph@gmail.com](mailto:symgryph@gmail.com)<br>
 <br>***PRINCIPAL IOT SECURITY ARCHITECT AND RESEARCHER***<br>
 *Cloud Security, Architecture, Analytics & Compliance, IOT Design and
