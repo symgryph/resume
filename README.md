@@ -4,7 +4,7 @@ Email: [symgryph@gmail.com](mailto:symgryph@gmail.com)<br>
 *Cloud Security, Architecture, Analytics & Compliance, IOT Design and
 Audit*
 
-I have helped companies attack modern IOT problems in Azure. I bring an out-of-the-box creative and technically sound perspective to my clients. I serve as their guide, explaining difficult technical problems clearly. I help them make the best choices based upon their needs. All IOTdevices should be secure and safe. They should help businesses bring secure solutions to their clients. Customers' data needs to be private, and still usable, within an increasingly complex international
+I have helped companies attack modern IOT problems in Azure. I bring an out-of-the-box creative and technically sound perspective to my clients. I serve as their guide, explaining difficult technical problems clearly. I help them make the best choices based upon their needs. All IOT devices should be secure and safe. They should help businesses bring secure solutions to their clients. Customers' data needs to be private, and still usable, within an increasingly complex international
 regulatory environment. An open mind is key to having a good working relationship with my colleagues and customers.
 
 ## <span style="font-variant:small-caps;">Areas of Expertise</span>
@@ -31,7 +31,7 @@ regulatory environment. An open mind is key to having a good working relationshi
 **Cree Incorporated, Durham, North Carolina July 2016 to May 2018**
 
 ***Principal IOT Security Researcher***<br>
-Develop new IOT security product. This included cloud, on-prem, and device security. Also developed secure development pipeline for device and cloud asset updating, and developed a signed openwrt image for final release to manufacturing. Evaluated multiple IOT infrastructure (thingworx, Microsoft Azure IOT, Renesys) platforms, none of which satisfied my Client's needs. We ended up rolling our own.
+Develop new IOT security product. This included cloud, on-prem, and device security. Also developed secure development pipeline for device and cloud asset updating, and developed a signed openwrt image for final release to manufacturing. Evaluated multiple IOT infrastructure (thingworx, Microsoft Azure IOT, Renesys) platforms. 
 
 *Selected Achievements:*
 
