@@ -1,20 +1,22 @@
 # Thomas Munn
-Email: [symgryph@gmail.com](mailto:symgryph@gmail.com)<br>
+Address: Cary, NC 27513 <br>
+Phone: 919-648-2447<br>
+Email: [thomas.j.munn@icloud.com](mailto:thomas.j.munn@iCloud.com)<br>
 <br>***PRINCIPAL IOT SECURITY ARCHITECT AND RESEARCHER***<br>
 *Cloud Security, Architecture, Analytics & Compliance, IOT Design and
 Audit*
 
-I have helped companies attack modern IOT problems in Azure. I bring an out-of-the-box creative and technically sound perspective to my clients. I serve as their guide, explaining difficult technical problems clearly. I help them make the best choices based upon their needs. All IOT devices should be secure and safe. They should help businesses bring secure solutions to their clients. Customers' data needs to be private, and still usable, within an increasingly complex international
+I have helped companies attack modern IOT problems in Azure. I bring an out-of-the-box creative and technically sound perspective to my clients. I serve as their guide, explaining difficult technical problems clearly. I help them make the best choices based upon their needs. All IOTdevices should be secure and safe. They should help businesses bring secure solutions to their clients. Customers' data needs to be private, and still usable, within an increasingly complex international
 regulatory environment. An open mind is key to having a good working relationship with my colleagues and customers.
 
 ## <span style="font-variant:small-caps;">Areas of Expertise</span>
 
-| *Focus Areas* | *Skill Areas* |                     
-| --- | --- |
-| -   Analyzing risk tolerance cost vs cost in iot solutions   | -   Secure IOT Design/Development |
-| -   Imparting innovative SecDevOps culture | -  Sensible PKI / Usable PKI Solutions |
-| -   Solving tough security problems unconventionally | - Creatively balancing security vs utility |
-| - Forensics & Incident Response | - Evaluating IOT platforms & suggesting alternatives to 'vendor lock in' |                                 
+*Focus Areas* | *Skill Areas*                     
+-----------------------------------+-----------------------------------+
+ -   Analyzing risk tolerance cost vs cost in iot solutions   | -   Secure IOT Design/Development |
+-   Imparting innovative SecDevOps culture|-  Sensible PKI / Usable PKI Solutions
+-   Solving tough security problems unconventionally|- Creatively balancing security vs utility|
+- Forensics & Incident Response|- Evaluating IOT platforms & suggesting alternatives to 'vendor lock in'                                 
 
 
 ## <span style="font-variant:small-caps;">Technical</span>
@@ -22,16 +24,16 @@ regulatory environment. An open mind is key to having a good working relationshi
 -   OS and Languages: OpenWRT, Windows server 2016, FreeBSD, Linux Variants (RedHat, Debian), Perl, Bash, Ansible, PowerShell
 -   Cloud Technology: Azure Ad infrastructure, Azure Sphere, KubernetesDocker, Prometheus, Vagrant, ElasticSearch, Kibana
 
--   IOT: OpenWrt, Arm Processors, Secure Boot, Image Provenance, Docker, Linux Containers, PKI
+-   IOT: OpenWrt, Arm Processors, Trusted Boot, Yocto, Image Provenance, Docker, Linux Containers, PKI
 
--   Technologies: Ansible, Palo Alto, Gitlab, OpenScap, Azure Sphere, Active Directory 2fa, PrimeKey PKI appliance, TrustZone, TPM 2.0, Intel TXT, Selinux, Secure Boot, Trusted Boot, Artifactory.
+-   Technologies: Ansible, Palo Alto, Gitlab, OpenScap, Azure Sphere, Active Directory 2fa, PrimeKey PKI appliance, TrustZone, TPM 2.0, Intel TXT, Secure Boot, Trusted Boot, Artifactory.
 
 ## <span style="font-variant:small-caps;">Professional Experience</span>
 
-**Cree Incorporated, Durham, North Carolina July 2016 to May 2018**
+**Cree Incorporated, Durham, North Carolina 2016 to 2018**
 
 ***Principal IOT Security Researcher***<br>
-Develop new IOT security product. This included cloud, on-prem, and device security. Also developed secure development pipeline for device and cloud asset updating, and developed a signed openwrt image for final release to manufacturing. Evaluated multiple IOT infrastructure (thingworx, Microsoft Azure IOT, Renesys) platforms. 
+Develop new IOT security product. This included cloud, on-prem, and device security. Also developed secure development pipeline for device and cloud asset updating, and developed a signed openwrt image for final release to manufacturing. Evaluated multiple IOT infrastructure (thingworx, Microsoft Azure IOT, Renesys) platforms, none of which satisfied my Client's needs. We ended up rolling our own.
 
 *Selected Achievements:*
 
@@ -41,7 +43,7 @@ Develop new IOT security product. This included cloud, on-prem, and device secur
 
 -   Developed secure PKI implementation which combined security with functionality. We used RSA keys with a hardware anchor of trust to make security based upon physical characteristics of IOT devices. This made data opaque to adversaries, and complied with local and international laws. All data transmissions were protected from viewing or tampering using industry standard RSA 4096 Bit encryption, TLS 1.2 ECDHE keys with custom moduli, and with automatic rekeying every hour.
 
-**SAS, Cary, North Carolina Dec 2015 to May 2016**
+**SAS, Cary, North Carolina 2015 to 2016**
 
 ***Senior Security Architect***<br>
 Provide security architectural, design and development expertise for
@@ -55,7 +57,7 @@ SAS startup developing a Big Data security analytics platform.
 
 -   Full life cycle solution delivery and executive advisory. This includes strategy, roadmap, assessments and discovery, design, architecture and solution delivery.
 
-**Verizon, Cary, North Carolina July 2008 to Dec 2015**
+**Verizon, Cary, North Carolina 2008 to Dec 2015**
 
 ***Principal Security Consultant***<br>
 Designed and implemented cloud security solutions. Developed reference architectures. Defined application migration strategies.
@@ -71,8 +73,8 @@ Designed and implemented cloud security solutions. Developed reference architect
 -   Architected, designed, and delivered a highly resilient EDI platform using IBM API gateway technology
     > **Impact**: Enabled a 21.7 billion dollar merger and acquisition of two Fortune 100 financial clients.
 
-***Lead Consultant, Contractor to Hire Apex Systems for Verizon* April
-2007 to June 2008**
+**Lead Consultant, (Contract to Hire), Hire Apex Systems for Verizon
+2007 to 2008**
 
 Designed and delivered security solutions for several Fortune 100 clients. Demonstrated outstanding relationship management and analysis skills.
 
