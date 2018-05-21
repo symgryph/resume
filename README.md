@@ -13,10 +13,10 @@ regulatory environment. An open mind is key to having a good working relationshi
 
 *Focus Areas* | *Skill Areas*                     
 |-------------|------------
--   Analyzing risk tolerance cost vs cost in iot solutions   | -   Secure IOT Design/Development |
--   Imparting innovative SecDevOps culture | -  Sensible PKI / Usable PKI Solutions
--   Solving tough security problems unconventionally | - Creatively balancing security vs utility|
--   Forensics & Incident Response | - Evaluating IOT platforms & suggesting alternatives to 'vendor lock in'                                 
+|-   Analyzing risk tolerance cost vs cost in iot solutions   | -   Secure IOT Design/Development |
+|-   Imparting innovative SecDevOps culture | -  Sensible PKI / Usable PKI Solutions
+|-   Solving tough security problems unconventionally | - Creatively balancing security vs utility|
+|-   Forensics & Incident Response | - Evaluating IOT platforms & suggesting alternatives to 'vendor lock in'                                 
 
 
 ## <span style="font-variant:small-caps;">Technical</span>
