@@ -33,8 +33,7 @@ regulatory environment. An open mind is key to having a good working relationshi
 **Cree Incorporated, Durham, North Carolina 2016 to 2018**
 
 ***Principal IOT Security Researcher***<br>
-Develop new IOT security product. This included cloud, on-prem, and device security. Also developed secure development pipeline for device and cloud asset updating, and developed a signed openwrt image for final release to manufacturing. Evaluated multiple IOT infrastructure (thingworx, Microsoft Azure IOT, Renesys) platforms, none of which satisfied my Client's needs. We ended up rolling our own.
-
+Develop new IOT security product. This included cloud, on-prem, and device security. Also developed secure development pipeline for device and cloud asset updating, and developed a signed openwrt image for final release to manufacturing. Evaluated multiple IOT infrastructure (thingworx, Microsoft Azure IOT, Renesys) platforms.
 *Selected Achievements:*
 
 -   Crafted a custom hybrid IOT infrastructure that delivered micro-services to customers. The solution including research, documentation, testing, and final deployment including the development of a custom Secure RedHat OS on Hyper-V. This served as the template for final VM introduction to the Azure Marketplace. Combined both Unix (Ansible) and Windows (azure cli) tools to automate this process.
