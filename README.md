@@ -59,9 +59,9 @@ SAS startup developing a Big Data security analytics platform.
 **Verizon, Cary, North Carolina 2008 to Dec 2015**
 
 ***Principal Security Consultant***<br>
-Designed and implemented cloud security solutions. Developed reference architectures. Defined application migration strategies.
+Designed and implemented cloud security solutions. Developed reference architectures. Defined application migration strategies.<br>
 
-*Selected Achievements:*
+*Selected Achievements:*<br>
 
 -   Developed and delivered a hybrid cloud solution for a Fortune 100 financial services client using Mashery, IBM Datapower and F5 technologies. 
     >**Impact:** Enabled multi-bank financial transactions for over 10,000 mobile clients.
